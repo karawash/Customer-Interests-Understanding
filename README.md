@@ -1,5 +1,5 @@
 # Customer Interests Understanding
-ReactJS Frontend of media analytics software tool
+ReactJS Frontend of consumer interests analytics tool
 
 
 ![Screenshot](image.gif)
