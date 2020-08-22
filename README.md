@@ -5,7 +5,6 @@ ReactJS Frontend of consumer interests analytics tool
 ![Screenshot](image.gif)
 
 
-
 ## Install the latest nodejs version
 
 ## Create app
